@@ -1,2 +1,2 @@
 # funtest
-new thing
+new other thing
